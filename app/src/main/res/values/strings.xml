@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scaner\'s Dice</string>
+    <string name="rolling">ROLL</string>
+    <string name="keep_hold">HOLD</string>
+    <string name="game_reset">RESET</string>
+    <string name="score">:0</string>
+    <string name="roll">Roll</string>
+    <string name="hold">Hold</string>
+    <string name="reset">Reset</string>
+    <string name="todo">TODO</string>
+</resources>
